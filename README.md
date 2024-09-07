@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mirzalimov-Ali
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 010-8384-1651
+- 📫 How to reach me: alidev1414@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm 14
 
