@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alidev1414@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i'm 14
+- ⚡ Fun fact: i'm 15
 
 <!---
 Mirzalimov-Ali/Mirzalimov-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
