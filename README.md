@@ -1,58 +1,57 @@
-<h1 align="center">👋 Hey, I'm Ali</h1>
+<h2 align="center">Hi, I'm <b>Ali</b> 👋</h2>
 
 <p align="center">
-  <b>SML Engineer • Web Developer • Kali Linux </b>
+  <b>SML Engineer • Web Developer</b>
 </p>
 
----
+<br>
 
-## 🚀 About Me
-- 🎓 Studying **Supervised Machine Learning**  
-- 🧠 Working with **Python, sklearn, pandas, NumPy**  
-- 💻 Interested in **Computer Vision, Deep learning, Machine Learning, CyberSecurity, Gym**
+## 🧑‍💻 About Me
+- 🎓 Focused on **Supervised Machine Learning**
+- 🧠 Strong with **Python, sklearn, pandas, NumPy**
+- 🔍 Interested in **Computer Vision, Deep Learning, Cybersecurity**
+- 💪 I also enjoy **gym** — discipline = productivity
 
----
+<br>
 
-## 🔧 Tech Stack
+## ⚡ Tech Stack
 
 ### 🐍 Languages
-- Python
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Batch
+`Python` `JavaScript` `TypeScript`  
+`HTML5` `CSS3`  
+`Batch`
 
 ### 📦 ML & Data Tools
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Joblib  
-- Jupyter 
+`scikit-learn` `pandas` `NumPy`  
+`Matplotlib` `Jupyter` `Joblib`
 
-### 🛠 Others
-- Git / GitHub  
-- Git LFS  
-- Cadence Virtuoso
-- Kali Linux
-- Reverse Engineering
-- XSS
-  
----
+### 🛡 Others
+`Git` `GitHub` `Git LFS`  
+`Cadence Virtuoso`  
+`Kali Linux`  
+`Reverse Engineering`  
+`XSS`
 
-## 📈 GitHub Stats
+<br>
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirzalimov-Ali&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzalimov-Ali&layout=compact&theme=github_dark" height="150"/>
+  <img height="135" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mirzalimov-Ali&theme=github_dark"/>
+  <img height="135" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirzalimov-Ali&theme=github_dark"/>
 </p>
 
----
+<p align="center">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirzalimov-Ali&theme=github_dark"/>
+</p>
+
+<br>
 
 ## 📫 Contact
-- 💬 Telegram: **@Krodeg**
+- 🔵 Telegram: **@Krodeg**
 - 📧 Email: **alidev1414@gmail.com**
 
----
+<br>
 
-<p align="center">🔥 Always learning. Always building. 🔥</p>
+<p align="center">
+  <b>🔥 Always learning. Always building. 🔥</b>
+</p>
