@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Ali — SML Engineer & Web Developer 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Supervised+Machine+Learning+Engineer;Web+Developer;Deep+Learning+Enthusiast;Cybersecurity+Practitioner;Computer+Vision+Fan" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Supervised+Machine+Learning+Engineer;Web+Developer;Cybersecurity+Practitioner;" />
 </p>
 
 ---
