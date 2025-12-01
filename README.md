@@ -36,12 +36,12 @@
 ## 💻 Tools / Cybersecurity
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kali-Linux-2.0-logo.svg" />
+  <img height="48" src="https://www.svgrepo.com/show/473687/kalilinux.svg" />
 </p>
 
 ---
 
-# 📊 GitHub Stats (Premium Look)
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Mirzalimov-Ali&theme=tokyonight&hide_border=true" />
