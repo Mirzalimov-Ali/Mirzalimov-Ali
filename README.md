@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @Mirzalimov-Ali
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: alidev1414@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i'm 15
+<h1 align="center">👋 Hey, I'm Ali</h1>
 
-<!---
-Mirzalimov-Ali/Mirzalimov-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>SML Engineer • Web Developer • Kali Linux </b>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Studying **Supervised Machine Learning**  
+- 🧠 Working with **Python, sklearn, pandas, NumPy**  
+- 💻 Interested in **Computer Vision, Deep learning, Machine Learning, CyberSecurity, Gym**
+
+---
+
+## 🔧 Tech Stack
+
+### 🐍 Languages
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Batch
+
+### 📦 ML & Data Tools
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Joblib  
+- Jupyter 
+
+### 🛠 Others
+- Git / GitHub  
+- Git LFS  
+- Cadence Virtuoso
+- Kali Linux
+- Reverse Engineering
+- XSS
+  
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirzalimov-Ali&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzalimov-Ali&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+---
+
+## 📫 Contact
+- 💬 Telegram: **@Krodeg**
+- 📧 Email: **alidev1414@gmail.com**
+
+---
+
+<p align="center">🔥 Always learning. Always building. 🔥</p>
